@@ -1,5 +1,5 @@
 # อาหารที่ชอบ
-Shabushi
+Shabushi,Sizzler,Suki;
 # Student ID
 57122420344
 # Name
